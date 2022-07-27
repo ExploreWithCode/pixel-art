@@ -1,0 +1,291 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>pixel Yin and Yang circular</title>
+<style type="text/css">
+table {
+  border: 1px solid black;
+  border-radius: 50%;
+}
+#tdc {
+  border: 1px hidden black;
+  border-radius: 50%;
+}
+</style>
+</head>
+<body bgcolor=lightblue>
+<table cellspacing=0 border=0 cellpadding=12 width=50% align=center valign=center bgcolor=black>
+<!--line 1-->
+<tr>
+<td></td> <td></td> <td></td> <td></td> <td></td>
+<td></td> <td></td> <td></td> <td></td> <td></td>
+<td></td> <td></td> <td></td> <td></td> <td></td>
+<td></td> <td></td> <td></td> <td></td> <td></td>
+<td></td> <td></td> <td></td> <td></td> <td></td>
+<td></td> <td></td> <td></td> <td></td> <td></td>
+</tr>
+<!--line 2-->
+<tr>
+<td></td> <td></td> <td></td> <td></td> <td></td>
+<td></td> <td></td> <td></td> <td></td> <td></td>
+<td></td> <td></td> <td></td> <td></td> <td></td>
+<td></td> <td></td> <td></td> <td></td> <td></td>
+<td></td> <td></td> <td></td> <td></td> <td></td>
+<td></td> <td></td> <td></td> <td></td> <td></td>
+</tr>
+<!--line 3-->
+<tr>
+<td></td> <td></td> <td></td> <td></td> <td></td>
+<td></td> <td></td> <td></td> <td></td> <td></td>
+<td></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td>
+<td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td> <td></td>
+<td></td> <td></td> <td></td> <td></td> <td></td>
+<td></td> <td></td> <td></td> <td></td> <td></td>
+</tr>
+<!--line 4-->
+<tr>
+<td></td> <td></td> <td></td> <td></td> <td></td>
+<td></td> <td></td> <td></td> <td></td> <td bgcolor=#000000></td>
+<td bgcolor=#000000></td> <td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td>
+<td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#000000></td> <td id=tdc bgcolor=#000000></td>
+<td bgcolor=#000000></td> <td></td> <td></td> <td></td> <td></td>
+<td></td> <td></td> <td></td> <td></td> <td></td>
+</tr>
+<!--line 5-->
+<tr>
+<td></td> <td></td> <td></td> <td></td> <td></td>
+<td></td> <td></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td> <td id=tdc bgcolor=#ffffff></td>
+<td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td>
+<td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td> <td bgcolor=#000000></td>
+<td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td> <td></td> <td></td>
+<td></td> <td></td> <td></td> <td></td> <td></td>
+</tr>
+<!--line 6-->
+<tr>
+<td></td> <td></td> <td></td> <td></td> <td></td>
+<td></td> <td bgcolor=#000000></td> <td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td>
+<td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td>
+<td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td>
+<td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td> <td></td>
+<td></td> <td></td> <td></td> <td></td> <td></td>
+</tr>
+<!--line 7-->
+<tr>
+<td></td> <td></td> <td></td> <td></td> <td></td>
+<td bgcolor=#000000></td> <td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td>
+<td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td>
+<td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td>
+<td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td>
+<td></td> <td></td> <td></td> <td></td> <td></td>
+</tr>
+<!--line 8-->
+<tr>
+<td></td> <td></td> <td></td> <td></td> <td bgcolor=#000000></td>
+<td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td>
+<td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td> <td bgcolor=#000000></td>
+<td bgcolor=#000000></td> <td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td>
+<td id=tdc bgcolor=#ffffff></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td>
+<td bgcolor=#000000></td> <td></td> <td></td> <td></td> <td></td>
+</tr>
+<!--line 9-->
+<tr>
+<td></td> <td></td> <td></td> <td></td> <td bgcolor=#000000></td>
+<td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td>
+<td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td>
+<td bgcolor=#000000></td> <td bgcolor=#000000></td> <td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td>
+<td id=tdc bgcolor=#ffffff></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td>
+<td bgcolor=#000000></td> <td></td> <td></td> <td></td> <td></td>
+</tr>
+<!--line 10-->
+<tr>
+<td></td> <td></td> <td></td> <td bgcolor=#000000></td> <td id=tdc bgcolor=#ffffff></td>
+<td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td>
+<td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td>
+<td bgcolor=#000000></td> <td bgcolor=#000000></td> <td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td>
+<td id=tdc bgcolor=#ffffff></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td>
+<td bgcolor=#000000></td> <td bgcolor=#000000></td> <td></td> <td></td> <td></td>
+</tr>
+<!--line 11-->
+<tr>
+<td></td> <td></td> <td></td> <td bgcolor=#000000></td> <td id=tdc bgcolor=#ffffff></td>
+<td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td>
+<td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td> <td bgcolor=#000000></td>
+<td bgcolor=#000000></td> <td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td>
+<td id=tdc bgcolor=#ffffff></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td>
+<td bgcolor=#000000></td> <td bgcolor=#000000></td> <td></td> <td></td> <td></td>
+</tr>
+<!--line 12-->
+<tr>
+<td></td> <td></td> <td bgcolor=#000000></td> <td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td>
+<td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td>
+<td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td>
+<td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td>
+<td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td>
+<td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td> <td></td> <td></td>
+</tr>
+<!--line 13-->
+<tr>
+<td></td> <td></td> <td bgcolor=#000000></td> <td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td>
+<td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td>
+<td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td>
+<td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td>
+<td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td>
+<td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td> <td></td> <td></td>
+</tr>
+<!--line 14-->
+<tr>
+<td></td> <td></td> <td bgcolor=#000000></td> <td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td>
+<td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td>
+<td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td>
+<td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td> <td bgcolor=#000000></td>
+<td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td>
+<td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td> <td></td> <td></td>
+</tr>
+<!--line 15-->
+<tr>
+<td></td> <td></td> <td bgcolor=#000000></td> <td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td>
+<td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td>
+<td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td>
+<td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td>
+<td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td>
+<td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td> <td></td> <td></td>
+</tr>
+<!--line 16-->
+<tr>
+<td></td> <td></td> <td bgcolor=#000000></td> <td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td>
+<td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td>
+<td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td>
+<td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td>
+<td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td>
+<td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td> <td></td> <td></td>
+</tr>
+<!--line 17-->
+<tr>
+<td></td> <td></td> <td bgcolor=#000000></td> <td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td>
+<td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td>
+<td id=tdc bgcolor=#ffffff></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td>
+<td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td>
+<td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td>
+<td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td> <td></td> <td></td>
+</tr>
+<!--line 18-->
+<tr>
+<td></td> <td></td> <td bgcolor=#000000></td> <td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td>
+<td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td>
+<td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td>
+<td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td>
+<td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td>
+<td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td> <td></td> <td></td>
+</tr>
+<!--line 19-->
+<tr>
+<td></td> <td></td> <td bgcolor=#000000></td> <td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td>
+<td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td>
+<td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td>
+<td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td>
+<td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td>
+<td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td> <td></td> <td></td>
+</tr>
+<!--line 20-->
+<tr>
+<td></td> <td></td> <td></td> <td bgcolor=#000000></td> <td id=tdc bgcolor=#ffffff></td>
+<td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td> <td bgcolor=#000000></td>
+<td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td> <td id=tdc bgcolor=#ffffff></td>
+<td id=tdc bgcolor=#ffffff></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td>
+<td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td>
+<td bgcolor=#000000></td> <td bgcolor=#000000></td> <td></td> <td></td> <td></td>
+</tr>
+<!--line 21-->
+<tr>
+<td></td> <td></td> <td></td> <td bgcolor=#000000></td> <td id=tdc bgcolor=#ffffff></td>
+<td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td> <td bgcolor=#000000></td>
+<td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td> <td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td>
+<td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td>
+<td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td>
+<td bgcolor=#000000></td> <td bgcolor=#000000></td> <td></td> <td></td> <td></td>
+</tr>
+<!--line 22-->
+<tr>
+<td></td> <td></td> <td></td> <td></td> <td bgcolor=#000000></td>
+<td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td> <td bgcolor=#000000></td>
+<td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td> <td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td>
+<td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td>
+<td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td>
+<td bgcolor=#000000></td> <td></td> <td></td> <td></td> <td></td>
+</tr>
+<!--line 23-->
+<tr>
+<td></td> <td></td> <td></td> <td></td> <td bgcolor=#000000></td>
+<td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td> <td bgcolor=#000000></td>
+<td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td> <td id=tdc bgcolor=#ffffff></td>
+<td id=tdc bgcolor=#ffffff></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td>
+<td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td>
+<td bgcolor=#000000></td> <td></td> <td></td> <td></td> <td></td>
+</tr>
+<!--line 24-->
+<tr>
+<td></td> <td></td> <td></td> <td></td> <td></td>
+<td bgcolor=#000000></td> <td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td>
+<td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td>
+<td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td>
+<td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td>
+<td></td> <td></td> <td></td> <td></td> <td></td>
+</tr>
+<!--line 25-->
+<tr>
+<td></td> <td></td> <td></td> <td></td> <td></td>
+<td></td> <td bgcolor=#000000></td> <td id=tdc id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td> <td id=tdc bgcolor=#ffffff></td>
+<td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td>
+<td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td>
+<td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td> <td></td>
+<td></td> <td></td> <td></td> <td></td> <td></td>
+</tr>
+<!--line 26-->
+<tr>
+<td></td> <td></td> <td></td> <td></td> <td></td>
+<td></td> <td></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td> <td id=tdc bgcolor=#ffffff></td>
+<td id=tdc bgcolor=#ffffff></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td>
+<td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td>
+<td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td> <td></td> <td></td>
+<td></td> <td></td> <td></td> <td></td> <td></td>
+</tr>
+<!--line 27-->
+<tr>
+<td></td> <td></td> <td></td> <td></td> <td></td>
+<td></td> <td></td> <td></td> <td></td> <td bgcolor=#000000></td>
+<td bgcolor=#000000></td> <td id=tdc bgcolor=#ffffff></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td>
+<td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td>
+<td bgcolor=#000000></td> <td></td> <td></td> <td></td> <td></td>
+<td></td> <td></td> <td></td> <td></td> <td></td>
+</tr>
+<!--line 28-->
+<tr>
+<td></td> <td></td> <td></td> <td></td> <td></td>
+<td></td> <td></td> <td></td> <td></td> <td></td>
+<td></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td>
+<td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td> <td></td>
+<td></td> <td></td> <td></td> <td></td> <td></td>
+<td></td> <td></td> <td></td> <td></td> <td></td>
+</tr>
+<!--line 29-->
+<tr>
+<td></td> <td></td> <td></td> <td></td> <td></td>
+<td></td> <td></td> <td></td> <td></td> <td></td>
+<td></td> <td></td> <td></td> <td></td> <td></td>
+<td></td> <td></td> <td></td> <td></td> <td></td>
+<td></td> <td></td> <td></td> <td></td> <td></td>
+<td></td> <td></td> <td></td> <td></td> <td></td>
+</tr>
+<!--line 30-->
+<tr>
+<td></td> <td></td> <td></td> <td></td> <td></td>
+<td></td> <td></td> <td></td> <td></td> <td></td>
+<td></td> <td></td> <td></td> <td></td> <td></td>
+<td></td> <td></td> <td></td> <td></td> <td></td>
+<td></td> <td></td> <td></td> <td></td> <td></td>
+<td></td> <td></td> <td></td> <td></td> <td></td>
+</tr>
+</table>
+</body>
+</html>
