@@ -5,7 +5,7 @@
 <title>pixel Bulbasaur</title>
 </head>
 <body bgcolor=lightblue>
-<table cellspacing=0 border=0 cellpadding=9 width=52% align=center valign=center bgcolor=lightblue>
+<table cellspacing=0 border=0 cellpadding=10 width=52% align=center valign=center bgcolor=lightblue>
 <!--line 1-->
 <tr>
 <td></td> <td></td> <td></td> <td></td> <td></td>
