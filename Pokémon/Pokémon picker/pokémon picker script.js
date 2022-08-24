@@ -2,21 +2,20 @@
 
 //NAME
 function pokémonNameInfo() {
-  document.getElementById("Info").innerHTML = ' Name: \"Name\", National Pokédex number: \"#number\", Type:	\"Type\", Gender: \"♂ Male / ♀ Female\" ';
-}
-
+  document.getElementById("Info").innerHTML = ' Name: \"Name\", National Pokédex number: \"#number\", Type: \"Type\", Gender: \"♂ Male / ♀ Female\" ';
+  }
 function displayImage(){
         document.getElementById('Pokémon').src="";
-    }
+  }
 	
 */
 //BULBASAUR
 function bulbasaurInfo() {
   document.getElementById("Info").innerHTML = ' Name: \"Bulbasaur\", National Pokédex number: \"#1\", Type: \"Grass / Poison\", Gender: \"♂ Male / ♀ Female\" ';
-}
+  }
 function displayBulbasaur(){
         document.getElementById('Pokémon').src="https://user-images.githubusercontent.com/109108536/182645143-93e9546c-1276-4e15-ac74-bd58c25b346d.png";
-    }
+  }
 //CHARMANDER
 function charmanderInfo() {
   document.getElementById("Info").innerHTML = ' Name: \"Charmander\", National Pokédex number: \"#4\", Type: \"Fire\", Gender: \"♂ Male / ♀ Female\" ';
@@ -37,6 +36,13 @@ function flareonInfo() {
   }
 function displayFlareon(){
         document.getElementById('Pokémon').src="https://user-images.githubusercontent.com/109108536/184756655-d8632ee3-ceb1-4aea-89a1-f585c81a255e.png";
+  }
+//IVYSAUR
+function ivysaurInfo() {
+  document.getElementById("Info").innerHTML = ' Name: \"Ivysaur\", National Pokédex number: \"#2\", Type: \"Grass / Poison\", Gender: \"♂ Male / ♀ Female\" ';
+  }
+function displayIvysaur(){
+        document.getElementById('Pokémon').src="https://user-images.githubusercontent.com/109108536/186333807-15538d93-20d8-4e9c-b2c3-e97d043fbc65.png";
   }
 //MEW
 function mewInfo() {
