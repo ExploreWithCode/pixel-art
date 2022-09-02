@@ -6,6 +6,9 @@
  <meta http-equiv="refresh" content="3"><!--choose the refresh rate in seconds-->
  <script src="Random pixel Pokémon generator.js" defer></script>
  <style type="text/css">
+ *{
+    scrollbar-color: #c630a1 #19a3d1;
+	}	
  #top{
 	text-align:center;
 	background-color:darkblue;
@@ -13,15 +16,28 @@
 	padding:10px;
 	}
  img{
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
+ 	margin-left: auto;
+	margin-right: auto;
+	}
+ span{
+	color: darkblue;
+  	font-size:20px;
+	}
+ p{
+	font-size:20px;
 	}
  </style>
 </head> 
 <body onload="imageTimeOut();" bgcolor="lightblue">
 <header id=top><h2>Random pixel Pokémon generator</h2></header>
 <hr>
-<span id="pokémon"> </span>
+<table>
+ <tr>
+  <td>
+   <p align=left><b>Regular</b></p> <p align=center><b>Mega</b></p>
+   <span id="pokémon"> </span><span id="mega"></span>
+  </td>
+ </tr>
+</table>
 </body>
 </html>
