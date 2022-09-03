@@ -72,3 +72,12 @@ function vaporeonInfo() {
 function displayVaporeon(){
         document.getElementById('Pokémon').src="https://user-images.githubusercontent.com/109108536/184548331-c87a476c-18bc-452c-b463-589dda31eabe.png";
   }
+
+            //  MEGA
+// MEGA VENUSAUR
+function megaVenusaurInfo() {
+  document.getElementById("Info").innerHTML = ' Name: \"Mega Venusaur\", National Pokédex number: \"#3\", Type:	\"Grass/Poison\", Gender: \"♂ Male / ♀ Female\" ';
+  }
+function displayMegaVenusaur(){
+        document.getElementById('Pokémon').src="https://user-images.githubusercontent.com/109108536/187982210-fb1ccb01-7356-4a89-9907-0b31b7539a0b.png";
+  }
