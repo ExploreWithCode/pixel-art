@@ -12,6 +12,8 @@ h1, tr, #Category, p {
   position: sticky;
   top: 0;
   padding: 0px;
+  width: 70%;
+  background-color:transparent;
 }
 p {
   font-size: 20px; 
@@ -19,9 +21,15 @@ p {
 #Category {
   font-size: 20px;
   width: 15%;
+  background-color: lightgreen;
+  border: 2px solid black;
+}
+#tdCat {
+  border: 2px solid black;
 }
 img {
-  width:75%;  
+  width:80%;
+  object-fit: fill;
   border: 2px solid black;
 }
 #Grass-Poison { /*transition from the color of one type to the color of the other type, when we have a pokemon with two types. see the colors on a website*/
