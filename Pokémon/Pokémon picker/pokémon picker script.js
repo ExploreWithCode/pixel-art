@@ -28,7 +28,7 @@ function venusaurInfo() {
   document.getElementById("Info").innerHTML = ' Name: \"Venusaur\", National Pokédex number: \"#3\", Type: \"Grass / Poison\", Gender: \"♂ Male / ♀ Female\" ';
   }
 function displayVenusaur(){
-        document.getElementById('Pokémon').src="https://user-images.githubusercontent.com/109108536/188745563-b1f30d38-7052-4b21-9335-cf21f1d070a8.png";
+        document.getElementById('Pokémon').src="https://user-images.githubusercontent.com/109108536/189545695-1a76055d-1aaf-492c-821c-4be0fa2385f3.png";
   }
 //CHARMANDER
 function charmanderInfo() {
