@@ -39,7 +39,7 @@ function getRandomPokémon() {
 	
 	var randomMega = new Array();	//MEGA
 	
-	randomMega[0] = "https://user-images.githubusercontent.com/109108536/187982210-fb1ccb01-7356-4a89-9907-0b31b7539a0b.png";//Mega Venusaur
+	randomMega[0] = "https://user-images.githubusercontent.com/109108536/189545695-1a76055d-1aaf-492c-821c-4be0fa2385f3.png";//Mega Venusaur
 	
 	var infoMega = new Array();
 	
