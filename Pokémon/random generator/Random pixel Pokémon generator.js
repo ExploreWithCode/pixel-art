@@ -14,12 +14,13 @@ function getRandomPokémon() {
     randomPokémon[1] = "https://user-images.githubusercontent.com/109108536/186333807-15538d93-20d8-4e9c-b2c3-e97d043fbc65.png";//Ivysaur
     randomPokémon[2] = "https://user-images.githubusercontent.com/109108536/188745563-b1f30d38-7052-4b21-9335-cf21f1d070a8.png";//Venusaur
     randomPokémon[3] = "https://user-images.githubusercontent.com/109108536/182645137-6fdfab30-3986-4769-bb17-687fabb8571d.png";//Charmander
-    randomPokémon[4] = "https://user-images.githubusercontent.com/109108536/182371225-7e637597-5591-40f7-9c57-f8cdfefc597e.png";//Pikachu
-    randomPokémon[5] = "https://user-images.githubusercontent.com/109108536/185455243-b9cf7aa5-5b17-420b-9494-8720b6676eab.png";//Eevee
-    randomPokémon[6] = "https://user-images.githubusercontent.com/109108536/184548331-c87a476c-18bc-452c-b463-589dda31eabe.png";//Vaporeon
-    randomPokémon[7] = "https://user-images.githubusercontent.com/109108536/184756655-d8632ee3-ceb1-4aea-89a1-f585c81a255e.png";//Flareon
-    randomPokémon[8] = "https://user-images.githubusercontent.com/109108536/183269522-1178a09a-8d59-45b6-90e9-616ddec1098a.png";//Mewtwo
-    randomPokémon[9] = "https://user-images.githubusercontent.com/109108536/184548973-d050a180-45d4-433d-ae19-e3a81bcb8bf0.png";//Mew
+    randomPokémon[4] = "https://user-images.githubusercontent.com/109108536/189507323-033fba7d-297e-4fb6-b9e5-872c785282bc.png";//Charmeleon
+    randomPokémon[5] = "https://user-images.githubusercontent.com/109108536/182371225-7e637597-5591-40f7-9c57-f8cdfefc597e.png";//Pikachu
+    randomPokémon[6] = "https://user-images.githubusercontent.com/109108536/185455243-b9cf7aa5-5b17-420b-9494-8720b6676eab.png";//Eevee
+    randomPokémon[7] = "https://user-images.githubusercontent.com/109108536/184548331-c87a476c-18bc-452c-b463-589dda31eabe.png";//Vaporeon
+    randomPokémon[8] = "https://user-images.githubusercontent.com/109108536/184756655-d8632ee3-ceb1-4aea-89a1-f585c81a255e.png";//Flareon
+    randomPokémon[9] = "https://user-images.githubusercontent.com/109108536/183269522-1178a09a-8d59-45b6-90e9-616ddec1098a.png";//Mewtwo
+    randomPokémon[10] = "https://user-images.githubusercontent.com/109108536/184548973-d050a180-45d4-433d-ae19-e3a81bcb8bf0.png";//Mew
     
 	
 	var info = new Array();
@@ -29,17 +30,18 @@ function getRandomPokémon() {
 	info[1] = "#002 Ivysaur";
 	info[2] = "#003 Venusaur";
 	info[3] = "#004 Charmander";
-	info[4] = "#025 Pikachu";
-    	info[5] = "#133 Eevee";
-	info[6] = "#134 Vaporeon";
-	info[7] = "#136 Flareon";
-	info[8] = "#150 Mewtwo";
-	info[9] = "#151 Mew";
+    	info[4] = "#005 Charmeleon";
+	info[5] = "#025 Pikachu";
+    	info[6] = "#133 Eevee";
+	info[7] = "#134 Vaporeon";
+	info[8] = "#136 Flareon";
+	info[9] = "#150 Mewtwo";
+	info[10] = "#151 Mew";
         
 	
 	var randomMega = new Array();	//MEGA
 	
-	randomMega[0] = "https://user-images.githubusercontent.com/109108536/189545695-1a76055d-1aaf-492c-821c-4be0fa2385f3.png;//Mega Venusaur
+	randomMega[0] = "https://user-images.githubusercontent.com/109108536/189545695-1a76055d-1aaf-492c-821c-4be0fa2385f3.png";//Mega Venusaur
 	
 	var infoMega = new Array();
 	
