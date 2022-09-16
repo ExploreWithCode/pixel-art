@@ -44,6 +44,13 @@ function charmeleonInfo() {
 function displayCharmeleon(){
         document.getElementById('Pokémon').src="https://user-images.githubusercontent.com/109108536/189507323-033fba7d-297e-4fb6-b9e5-872c785282bc.png";
   }
+//CHARIZARD
+function charizardInfo() {
+  document.getElementById("Info").innerHTML = ' Name: \"Charizard\", National Pokédex number: \"#6\", Type: \"Fire\", Gender: \"♂ Male / ♀ Female\" ';
+  }
+function displayCharizard(){
+        document.getElementById('Pokémon').src="https://user-images.githubusercontent.com/109108536/190274394-c811d5de-d665-4913-8d0d-bcd57cb8f18f.png";
+  }
 //PIKACHU
 function pikachuInfo() {
   document.getElementById("Info").innerHTML = ' Name: \"Pikachu\", National Pokédex number:	\"#25\", Type: \"Electric\", Gender: \"♂ Male / ♀ Female\" ';
