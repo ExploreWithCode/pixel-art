@@ -1,3 +1,12 @@
+/*@media (max-width: 750px) {
+  #background-video { display: none; }
+  body {
+    background: url("https://user-images.githubusercontent.com/109108536/182645143-93e9546c-1276-4e15-ac74-bd58c25b346d.png") no-repeat;
+    background-size: cover;
+  }
+}
+*/
+
 /*FORM
 
 //NAME
@@ -57,6 +66,13 @@ function squirtleInfo() {
   }
 function displaySquirtle(){
         document.getElementById('Pokémon').src="https://user-images.githubusercontent.com/109108536/191074784-42ddb9da-9858-4a26-b27d-d0d0a6faf3d1.png";
+  }
+//WARTORTLE
+function wartortleInfo() {
+  document.getElementById("Info").innerHTML = ' Name: \"Wartortle\", National Pokédex number: \"#8\", Type: \"Water\", Gender: \"♂ Male / ♀ Female\" ';
+  }
+function displayWartortle(){
+        document.getElementById('Pokémon').src="https://user-images.githubusercontent.com/109108536/192023134-d9f2d56e-88ee-4af6-bdfa-91ee1d788793.png";
   }
 //PIKACHU
 function pikachuInfo() {
