@@ -4,6 +4,17 @@
 body {
   background-color: lightblue;
 }
+/*#background-video {
+  width: 100vw;
+  height: 100vh;
+  object-fit: cover;
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  z-index: -1;
+}*/
 h1, tr, #Category, p {
 	text-align: center;
 }
@@ -17,79 +28,87 @@ h1, tr, #Category, p {
 }
 p {
   font-size: 20px; 
+  box-shadow: 2px 2px 7px 2px black;
 }
 #Category {
   font-size: 20px;
   width: 15%;
   background-color: lightgreen;
   border: 2px solid black;
+  box-shadow: 2px 2px 7px 2px black;
 }
 #tdCat {
   border: 2px solid black;
+  box-shadow: 2px 2px 7px 2px black;
 }
 img {
   width:80%;
   object-fit: fill;
   border: 2px solid black;
+  box-shadow: 2px 2px 7px 2px black;
+}
+abbr {
+  box-shadow: 2px 5px 7px 2px black;
+  
 }
 #Grass-Poison { /*transition from the color of one type to the color of the other type, when we have a pokemon with two types. see the colors on a website*/
-  color: #5f902d;/*Grass*/
+  color: #78c850;/*Grass*/
   animation: GrassPoison 4s infinite;
 }
 @keyframes GrassPoison {
-  50% {color: #803380;}/*Poison*/
+  50% {color: #a040a0;}/*Poison*/
 }
 #Bug {
-  color:#86931a;
+  color:#a8b820;
 }
 #Dragon {
-  color:#3506a9;
+  color:#7038f8;
 }
 #Dark {
-  color:#5a463a;
+  color:#705848;
 }
 #Electric {
-  color:#826904;
+  color:#f8d030;
 }
 #Fairy {
-  color:#691125;
+  color:#ee99ac;
 }
 #Fighting {
-  color:#9a2620;
+  color:#c03028;
 }
 #Fire {
-  color:#ac4f0c;
+  color:#f08030;
 }
 #Flying {
-  color:#270f70;
+  color:#a890f0;
 }
 #Ghost {
-  color:#5a467a;
+  color:#705898;
 }
 #Grass {
-  color:#5f902d;
+  color:#78c850;
 }
 #Ground {
-  color:#644f14;
+  color:#e0c068;
 }
 #Ice {
-  color:#256363;
+  color:#98d8d8;
 }
 #Normal {
-  color:#545436;
+  color:#a8a878;
 }
 #Poison {
-  color:#803380;
+  color:#a040a0;
 }
 #Psychic {
-  color:#950631;
+  color:#f85888;
 }
 #Rock {
-  color:#93802d;
+  color:#b8a038;
 }
 #Steel {
-  color:#313149;
+  color:#b8b8d0;
 }
 #Water {
-  color:#0e3289;
+  color:#6890f0;
 }
