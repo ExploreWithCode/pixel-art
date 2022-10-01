@@ -48,8 +48,9 @@ img {
   box-shadow: 2px 2px 7px 2px black;
 }
 abbr {
+  border-radius: 10%;
   box-shadow: 2px 5px 7px 2px black;
-  
+  border: 1px solid rgba(0, 0, 0, 0.975);
 }
 #Grass-Poison { /*transition from the color of one type to the color of the other type, when we have a pokemon with two types. see the colors on a website*/
   color: #78c850;/*Grass*/
