@@ -74,6 +74,13 @@ function wartortleInfo() {
 function displayWartortle(){
         document.getElementById('Pokémon').src="https://user-images.githubusercontent.com/109108536/192023134-d9f2d56e-88ee-4af6-bdfa-91ee1d788793.png";
   }
+//BLASTOISE
+function blastoiseInfo() {
+  document.getElementById("Info").innerHTML = ' Name: \"Blastoise\", National Pokédex number: \"#9\", Type: \"Water\", Gender: \"♂ Male / ♀ Female\" ';
+  }
+function displayBlastoise(){
+        document.getElementById('Pokémon').src="https://user-images.githubusercontent.com/109108536/193122468-2f2868ad-e220-43ac-bb12-60d54a3bad8f.png";
+  }
 //PIKACHU
 function pikachuInfo() {
   document.getElementById("Info").innerHTML = ' Name: \"Pikachu\", National Pokédex number:	\"#25\", Type: \"Electric\", Gender: \"♂ Male / ♀ Female\" ';
