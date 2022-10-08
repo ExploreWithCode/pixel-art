@@ -81,6 +81,13 @@ function blastoiseInfo() {
 function displayBlastoise(){
         document.getElementById('Pokémon').src="https://user-images.githubusercontent.com/109108536/193122468-2f2868ad-e220-43ac-bb12-60d54a3bad8f.png";
   }
+//CATERPIE
+function caterpieInfo() {
+  document.getElementById("Info").innerHTML = ' Name: \"Caterpie\", National Pokédex number: \"#10\", Type: \"Bug\", Gender: \"♂ Male / ♀ Female\" ';
+  }
+function displayCaterpie(){
+        document.getElementById('Pokémon').src="https://user-images.githubusercontent.com/109108536/193480860-10b97d7e-68fa-4697-a332-c6e114b0bbd4.png";
+  }
 //PIKACHU
 function pikachuInfo() {
   document.getElementById("Info").innerHTML = ' Name: \"Pikachu\", National Pokédex number:	\"#25\", Type: \"Electric\", Gender: \"♂ Male / ♀ Female\" ';
